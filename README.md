@@ -36,7 +36,7 @@ This loads the browser at http://localhost:8080
 
 - The command `npm run build`  builds to the `docs` folder (so it can be published using githubpages)
 - The destination can be changed at `webpack.config.js` 
-- Another **important** parameter is `const baseUrlProd = "/arhunt/"`. Replace /arhunt/ with the repo or public folder name
+- Another **important** parameter is `const baseUrlProd = "/HaboHunt/"`. Replace /HaboHunt/ with the repo or public folder name
 
 
 ## The Markers
