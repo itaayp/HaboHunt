@@ -12,7 +12,7 @@ const WriteFilePlugin = require('write-file-webpack-plugin');
 const imageminJpegtran = require("imagemin-jpegtran");
 const imageminOptipng = require("imagemin-optipng");
 
-const baseUrlProd = "/HaboHunt/";
+const baseUrlProd = "/arhunt/";
 module.exports = (env, options) => ({
   entry: ["./src/index.js"],
   devServer: {
